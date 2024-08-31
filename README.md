@@ -1,0 +1,1 @@
+My shopping list app allows you to easily manage your shopping items by entering the name and quantity of each item. You can edit or discard items as needed, making your shopping experience more organized and efficient.
